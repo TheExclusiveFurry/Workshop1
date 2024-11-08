@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Workshop2.unity
+    guid: 9818d091738177f42b47ca48c7537c50
   m_configObjects: {}
